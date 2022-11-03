@@ -17,6 +17,7 @@ app.use("/",blogRouter)
 app.use("/blog",blogRouter)
 
 
+//sadik
 
 app.listen(PORT,()=>{
     console.log("application running on port ",PORT);
